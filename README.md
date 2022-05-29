@@ -1,9 +1,6 @@
- ### <div align="center"> Hello World! I'm Julio Garcia </div>
+<img width="100%" src="https://i.imgur.com/WtMPK9t.png" alt="my banner">
 
-
-
-<div align="center"> 📚 I’m currently working on front-end web development 💻 </div>
-<br>
+ <br>
 
 
 <div align="center">
